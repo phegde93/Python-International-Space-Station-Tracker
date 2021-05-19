@@ -5,8 +5,7 @@ import time
 
 MY_LAT = 27.964157
 MY_LONG = -82.452606
-MY_EMAIL = "prasadganeshhegde@gmail.com"
-MY_PASSWORD = "ASLKdfghj1!"
+
 
 
 def is_iss_overhead():
